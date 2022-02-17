@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tyler @fu nope@nope.com
 
 # THANKS
 
